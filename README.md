@@ -1,5 +1,5 @@
 # usmood-stsge-0
-usmood repo 0
+usmood repo file
 
 #!/usr/bin/env bash
 
